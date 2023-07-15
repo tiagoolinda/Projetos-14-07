@@ -1,0 +1,24 @@
+/* Mudando todas as configuralções padrões do browse */
+*{
+    margin: 0;
+}
+
+/* Trabalhando com a classe do titulo */
+.titulo{
+    background-color: #8e8ef3;
+    color: #fc0404;
+    font-size: 15px;
+    height: 60px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 30px;/* margem externa */
+     /* padding: margem interna */}
+
+    /* Trabalhando a classe texto */
+    .texto{
+        align-items: center;
+        text-align:32px;
+        padding:30px;  
+
+    }
